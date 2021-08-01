@@ -15,10 +15,10 @@ public class Main {
 
 		Messages messages = new Messages("Alex", "Piss Off");
 
-		messages.messageList.put("Alex", "Piss Off");
-		messages.messageList.put("tres", "Piss Off");
-		messages.messageList.put("uno", "Piss Off");
-		messages.messageList.put("dos", "Piss Off");
+		messages.messageList.put("Alex", "Test Message 1");
+		messages.messageList.put("Don", "Test Message 2");
+		messages.messageList.put("Mike", "Test Message 3");
+		messages.messageList.put("JiaLe", "Test Message 4");
 
 		System.out.println("Good Morning/Afternoon/Evening, what would you like to do? ");
 
